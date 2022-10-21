@@ -32,20 +32,20 @@
 
 </br>
 
-## Contribuições
-
-<div align="center">
-  <a href="https://github.com/Gabriel-Malafaia">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Malafaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Malafaia&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## Principais Tecnologias
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
+## Contribuições
+
+<div align="center">
+  <a href="https://github.com/Gabriel-Malafaia">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Malafaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Malafaia&layout=compact&langs_count=7&theme=dracula"/>
+    
+   <br>
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
