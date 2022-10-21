@@ -3,7 +3,7 @@
 ## Olá, Bem-vindo(a) ao meu github!
 
 <p align="left"> 
-  Me chamo Gabriel Malafaia, tenho 22 anos e sou morador da cidade de Nova Iguaçu no Rio de Janeiro, Atualmente, Faço um Intensivo de 1 Ano na Kenzie Academy Brasil, com foco no em me formar como um Desenvolvedor FullStack, tendo já terminado, o Front-end. Também curso Engenharia de Software na Universidade Estácio de Sá, no 2 semestre.</strong>.
+  Me chamo Gabriel Malafaia, tenho 22 anos e sou morador da cidade de Nova Iguaçu no Rio de Janeiro.
   </br>
   </br>
   Atualmente, Sou um estudante de Desenvolvimento FullStack na Kenzie Academy Brasil e Engenharia de Software na Universidade Estácio de sá.
