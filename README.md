@@ -4,14 +4,14 @@
 
 <p align="left"> 
   Me chamo Gabriel Malafaia, tenho 22 anos e sou morador da cidade de Nova Iguaçu no Rio de Janeiro.
-  </br>
-  </br>
+</br>
+</br>
   Atualmente, Sou um estudante de Desenvolvimento FullStack na Kenzie Academy Brasil e Engenharia de Software na Universidade Estácio de sá.
-  Recenetemente, Formado como desenvolvedor front-end e no progresso do back-end!
+  Recentemente, Formado como desenvolvedor Front-end e no progresso do Back-end!
 </p>
 
 <p align="left">
-  Neste repositório você encontrará meus trabalhos mais importantes durante o meu aprendizado, todos organizados por hierarquia, 1.0, 2.0, etc.. abra para mais detalhes!
+   Neste repositório você encontrará meus trabalhos mais importantes durante o meu aprendizado, todos organizados por hierarquia, 1.0, 2.0, etc.. abra para mais detalhes!
 </p>
 
 <p align="left">
@@ -40,6 +40,8 @@
 ## Principais Tecnologias
 
 - React JS
+- Node JS
+- PostgreSQL
 - Typescript
 - Javascript
 - HTML
