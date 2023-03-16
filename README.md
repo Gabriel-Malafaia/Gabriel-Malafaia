@@ -3,11 +3,10 @@
 ## Olá, Bem-vindo(a) ao meu github!
 
 <p align="left"> 
-  Me chamo Gabriel Malafaia, tenho 22 anos e sou morador da cidade de Nova Iguaçu no Rio de Janeiro.
+  Me chamo Gabriel Malafaia, tenho 23 anos e sou morador da cidade de Nova Iguaçu no Rio de Janeiro.
 </br>
 </br>
-  Atualmente, Sou um estudante de Desenvolvimento FullStack na Kenzie Academy Brasil e Engenharia de Software na Universidade Estácio de sá.
-  Recentemente, Formado como desenvolvedor Front-end e no progresso do Back-end!
+  Atualmente, Sou um Desenvolvedor FullStack formado pela Kenzie Academy Brasil e cursando Engenharia de Software na Universidade Estácio de sá.
 </p>
 
 <p align="left">
@@ -41,6 +40,7 @@
 
 - React JS
 - Node JS
+- Python
 - PostgreSQL
 - Typescript
 - Javascript
